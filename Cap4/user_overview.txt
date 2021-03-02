@@ -1,0 +1,45 @@
+The total number of users registered is: 14
+The total number of tasks generated is: 11
+
+admin Overview:
+admin has 2 tasks on the system.
+There is 18.18% of all tasks assigned to admin.
+50.0% of the tasks assigned to admin is completed.
+50.0% of the tasks assigned to admin is incomplete.
+50.0% of the tasks assigned to admin is overdue and incomplete.
+Andro Overview:
+Andro has 1 tasks on the system.
+There is 9.09% of all tasks assigned to Andro.
+0.0% of the tasks assigned to Andro is completed.
+100.0% of the tasks assigned to Andro is incomplete.
+100.0% of the tasks assigned to Andro is overdue and incomplete.
+Wihan Overview:
+Wihan has 1 tasks on the system.
+There is 9.09% of all tasks assigned to Wihan.
+0.0% of the tasks assigned to Wihan is completed.
+100.0% of the tasks assigned to Wihan is incomplete.
+100.0% of the tasks assigned to Wihan is overdue and incomplete.
+Tony Overview:
+Tony has 3 tasks on the system.
+There is 27.27% of all tasks assigned to Tony.
+0.0% of the tasks assigned to Tony is completed.
+100.0% of the tasks assigned to Tony is incomplete.
+100.0% of the tasks assigned to Tony is overdue and incomplete.
+Thor Overview:
+Thor has 1 tasks on the system.
+There is 9.09% of all tasks assigned to Thor.
+0.0% of the tasks assigned to Thor is completed.
+100.0% of the tasks assigned to Thor is incomplete.
+100.0% of the tasks assigned to Thor is overdue and incomplete.
+Peter Overview:
+Peter has 1 tasks on the system.
+There is 9.09% of all tasks assigned to Peter.
+0.0% of the tasks assigned to Peter is completed.
+100.0% of the tasks assigned to Peter is incomplete.
+100.0% of the tasks assigned to Peter is overdue and incomplete.
+Nick Overview:
+Nick has 1 tasks on the system.
+There is 9.09% of all tasks assigned to Nick.
+100.0% of the tasks assigned to Nick is completed.
+0.0% of the tasks assigned to Nick is incomplete.
+0.0% of the tasks assigned to Nick is overdue and incomplete.

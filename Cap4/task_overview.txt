@@ -1,0 +1,6 @@
+The total number of tasks generated is: 11
+The number of completed tasks: 3
+The number of uncompleted tasks: 8
+The percentage of incompleted tasks: 72.73%
+There are 3 overdue and incomplete tasks on the system.
+The percentage of tasks over due is 27.27%.

@@ -1,0 +1,11 @@
+admin, Register Users with taskManager.py, Use taskManager.py to add the usernames and passwords for all team members that will be using this program., 10-Oct-19, 20-Oct-19, Yes
+admin, Assign initial tasks, Use taskManager.py to assign each team member with appropriate tasks, 10-Oct-19, 25-Oct-19, No
+Andro, Move, Move to Westcoast and get a dog, 23-Dec-21, 10-Feb-21, No
+Wihan, Complete Capstone, Use Python to make sure all aspects of your Capstone works., 10-Feb-21, 05-Feb-21, No
+Tony, Mach 3, Design and build the Iron Man Suite Mach 3 with heat deflectors., 27-Aug-21, 09-Feb-21, No
+Thor, Stormbreaker, Go to dwarfs and ask them to make Stormbreaker., 14-Feb-21, 12-Feb-21, No
+Tony, Vision & Thor, Complete Vision to protect the earth en implement Thor Protocal., 25-Jun-21, 12-Feb-21, No
+Peter, Vision, train with Vision, 25-Mar-21, 12-Feb-21, No
+Tony, Mach 3,  Replace heat defelector and heat sync., 25-Jun-21, 12-Feb-21, No
+Nick, Vision, Complete the Vision to protect the earth., 25-Jun-21, 12-Feb-21, Yes
+Pepper, Stark Tower, Build Stark Tower, 21-Dec-21, 15-Feb-21, Yes
